@@ -1,0 +1,33 @@
+table{
+
+    margin: auto;
+
+}
+
+#titel{
+    text-align: center;
+}
+
+
+
+table{
+
+    border-spacing: 0;
+
+    tr{
+
+        td{
+
+            border: 1px solid black;
+
+            padding: 5px;
+
+        }
+
+        th{
+
+            border: 1px solid black;
+
+        }
+    }
+}
